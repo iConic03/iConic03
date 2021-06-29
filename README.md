@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iConic03!
+- 👀 I’m interested in programming!
+- 🌱 I’m currently learning web development using PHP, HTML, CSS, etc.
